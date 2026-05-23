@@ -4,6 +4,8 @@
 
 # Run and deploy your AI Studio app
 
+**App URL (Live Demo):** [https://tetris-game-735053671418.asia-south1.run.app/](https://tetris-game-735053671418.asia-south1.run.app/)
+
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/b9b168b5-13d6-4d14-8918-b91084e292ff
