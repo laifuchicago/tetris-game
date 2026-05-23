@@ -1,0 +1,6 @@
+{
+  "name": "Tetris Game",
+  "description": "A responsive, single-screen Tetris arcade game implemented using HTML5 Canvas, modern React, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
